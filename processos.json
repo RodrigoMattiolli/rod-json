@@ -1,0 +1,411 @@
+[
+    {
+        "id":1,
+        "orgao":"DER - RJ",
+        "cabecalho":"ILMO SR PRESIDENTE DA JARI DO DER – DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DO RIO DE JANEIRO"
+    },
+
+    {
+        "id":2,
+        "orgao": "DER - MG",
+        "cabecalho":"ILMO SR PRESIDENTE DA JARI DO DER – DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS"
+    },
+
+    {
+        "id":3,
+        "orgao":"DER - SP",
+        "cabecalho":"ILMO SR PRESIDENTE DA JARI DO DER – DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE SÃO PAULO"
+    },
+
+
+    {
+        "id":4,
+        "orgao":"DNIT", 
+        "cabecalho":"ILMO SR PRESIDENTE DA JARI DO DNIT – DEPARTAMENTO NACIONAL DE INFRAESTRUTURA TERRESTRE"
+    },
+
+    {
+        "id":5,
+        "orgao":"PRF",
+        "cabecalho":"AO SENHOR PRESIDENTE DA JARI DO MJ-DEPARTAMENTO DE POLICIA RODOVIÁRIA FEDERAL"
+    },
+
+    {
+        "id":6,
+        "orgao":"PREFEITURA DO RIO DE JANEIRO",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DO RIO DE JANEIRO"
+    },
+
+    {
+        "id":7,
+        "orgao":"PREFEITURA DE ANGRA DOS REIS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE ANGRA DOS REIS"
+    },
+
+    {
+        "id":8,
+        "orgao":"PREFEITURA DE ARARUAMA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE ARARUAMA"
+    },
+
+    {
+        "id":9,
+        "orgao":"PREFEITURA DE ARMAÇÃO DOS BUZIOS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE ARMAÇÃO DOS BUZIOS"
+    },
+
+    {
+        "id":10,
+        "orgao":"PREFEITURA DE ARRAIAL DO CABO",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE ARRAIAL DO CABO"    
+    },
+
+    {
+        "id":11,
+        "orgao":"PREFEITURA DE BARRA DO PIRAI",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE BARRA DO PIRAI"
+    },
+
+    {
+        "id":12,
+        "orgao":"PREFEITURA DE BARRA MANSA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE BARRA MANSA"
+    },
+
+    {
+        "id":13,
+        "orgao":"PREFEITURA DE BELFORD ROXO",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE BELFORD ROXO"
+    },
+
+    {
+        "id":14,
+        "orgao":"PREFEITURA DE BOM JARDIM",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE BOM JARDIM"
+    },
+
+    {
+        "id":15,
+        "orgao":"PREFEITURA DE BOM JESUS DE ITABAPOANA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE BOM JESUS DE ITABAPOANA"
+    },
+
+    {
+        "id":16,
+        "orgao":"PREFEITURA DE CABO FRIO",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE CABO FRIO"
+    },
+
+    {
+        "id":17,
+        "orgao":"PREFEITURA DE CACHOEIRA DE MACACU",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE CACHOEIRA DE MACACU"
+    },
+
+    {
+        "id":18,
+        "orgao":"PREFEITURA DE CAMPOS DOS GOITAGAZES",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE CAMPOS DOS GOITACAZES"
+    },
+
+    {
+        "id":19,
+        "orgao":"PREFEITURA DE CANTAGALO",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE CANTAGALO"
+    },
+
+    {
+        "id":20,
+        "orgao":"PREFEITURA DE CARAPEBUS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE CARAPEBUS"
+    },
+
+    {
+        "id":21,
+        "orgao":"PREFEITURA DE CASIMIRO DE ABREU",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE CASIMIRO DE ABREU"
+    },
+
+    {
+        "id":22,
+        "orgao":"PREFEITURA DE CONCEIÇAO DE MACABU",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE CONCEIÇÃO DE MACABU"
+    },
+
+    {
+        "id":23,
+        "orgao":"PREFEITURA DE CORDEIRO",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE CORDEIRO"
+    },
+
+    {
+        "id":24,
+        "orgao":"PREFEITURA DE DUQUE DE CAXIAS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE DUQUE DE CAXIAS"
+    },
+
+    {
+        "id":25,
+        "orgao":"PREFEITURA DE IGUABA GRANDE",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE IGUABA GRANDE"
+    },
+
+    {
+        "id":26,
+        "orgao":"PREFEITURA DE ITABORAI",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE ITABORAI"
+    },
+
+    {
+        "id":27,
+        "orgao":"PREFEITURA DE ITAGUAI",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE ITAGUAI"
+    },
+
+    {
+        "id":28,
+        "orgao":"PREFEITURA DE ITAPERUNA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE ITAPERUNA"
+    },
+
+    {
+        "id":29,
+        "orgao":"PREFEITURA DE ITATIAIA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE ITATIAIA"
+    },
+
+    {
+        "id":30,
+        "orgao":"PREFEITURA DE JAPERI",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE JAPERI"
+    },
+
+    {
+        "id":31,
+        "orgao":"PREFEITURA DE LAJE DE MURIAÉ",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE LAJE DE MURIAÉ"
+    },
+
+    {
+        "id":32,
+        "orgao":"PREFEITURA DE MACAÉ",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE MACAÉ"
+    },
+
+    {
+        "id":33,
+        "orgao":"PREFEITURA DE MAGÉ",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE MAGÉ"
+    },
+
+    {
+        "id":34,
+        "orgao":"PREFEITURA DE MANGARATIBA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE MANGARATIBA"
+    },
+
+    {
+        "id":35,
+        "orgao":"PREFEITURA DE MARICÁ",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE MARICÁ"
+    },
+
+    {
+        "id":36,
+        "orgao":"PREFEITURA DE MENDES",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE MENDES"
+    },
+
+    {
+        "id":37,
+        "orgao":"PREFEITURA DE MESQUITA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE MESQUITA"
+    },
+
+    {
+        "id":38,
+        "orgao":"PREFEITURA DE MIGUEL PEREIRA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE MIGUEL PEREIRA"
+    },
+
+    {
+        "id":39,
+        "orgao":"PREFEITURA DE MIRACEMA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE MIRACEMA"
+    },
+
+    {
+        "id":40,
+        "orgao":"PREFEITURA DE NILÓPOLIS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE NILÓPOLIS"
+    },
+
+    {
+        "id":41,
+        "orgao":"PREFEITURA DE NOVA FRIBURGO",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE NOVA FRIBURGO"
+    },
+
+    {
+        "id":42,
+        "orgao":"PREFEITURA DE NOVA IGUAÇU",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE NOVA IGUAÇU"
+    },
+
+    {
+        "id":43,
+        "orgao":"PREFEITURA DE PARACAMBI",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE PARACAMBI"
+    },
+
+    {
+        "id":44,
+        "orgao":"PREFEITURA DE PARAIBA DO SUL",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE PARAIBA DO SUL"
+    },
+
+    {
+        "id":45,
+        "orgao":"PREFEITURA DE PARATY",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE PARATY"
+    },
+
+    {
+        "id":46,
+        "orgao":"PREFEITURA DE PATY DO ALFELIS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE PATY DO ALFELIS"
+    },
+
+    {
+        "id":47,
+        "orgao":"PREFEITURA DE PETRÓPOLIS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE PETRÓPOLIS"
+    },
+
+    {
+        "id":48,
+        "orgao":"PREFEITURA DE PINHEIRAL",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE PINHEIRAL"
+    },
+
+    {
+        "id":49,
+        "orgao":"PREFEITURA DE PORTO REAL",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE PORTO REAL"
+    },
+
+    {
+        "id":50,
+        "orgao":"PREFEITURA DE QUATIS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE QUATIS"
+    },
+
+    {
+        "id":51,
+        "orgao":"PREFEITURA DE QUEIMADOS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE QUEIMADOS"
+    },
+
+    {
+        "id":52,
+        "orgao":"PREFEITURA DE RESENDE",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE RESENDE"
+    },
+
+    {
+        "id":53,
+        "orgao":"PREFEITURA DE RIO BONITO",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE RIO BONITO"
+    },
+
+    {
+        "id":54,
+        "orgao":"PREFEITURA DE RIO DAS OSTRAS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE RIO DAS OSTRAS"
+    },
+
+    {
+        "id":55,
+        "orgao":"PREFEITURA DE SANTO ANTONIO DE PADOA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE SANTO ANTONIO DE PADOA"
+    },
+
+    {
+        "id":56,
+        "orgao":"PREFEITURA DE SÃO FRANCISCO DO ITABAPOANA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE SÃO FRANCISCO DO ITABAPOANA"
+    },
+
+    {
+        "id":57,
+        "orgao":"PREFEITURA DE SÃO GONÇALO",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE SÃO GONÇALO"
+    },
+
+    {
+        "id":58,
+        "orgao":"PREFEITURA DE SÃO JOÃO DA BARRA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE SÃO JOÃO DA BARRA"
+    },
+
+    {
+        "id":59,
+        "orgao":"PREFEITURA DE SÃO JOÃO DE MERITI",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE SÃO JOÃO DE MERITI"
+    },
+
+    {
+        "id":60,
+        "orgao":"PREFEITURA DE SÃO PEDRO DA ALDEIA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE SÃO PEDRO DA ALDEIA"
+    },
+
+    {
+        "id":61,
+        "orgao":"PREFEITURA DE SAQUAREMA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE SAQUAREMA"
+    },
+
+    {
+        "id":62,
+        "orgao":"PREFEITURA DE ANGRA DOS REIS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE ANGRA DOS REIS"
+    },
+
+    {
+        "id":63,
+        "orgao":"PREFEITURA DE TANGUÁ",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE TANGUÁ"
+    },
+
+    {
+        "id":64,
+        "orgao":"PREFEITURA DE TERESÓPOLIS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE TERESÓPOLIS"
+    },
+
+    {
+        "id":65,
+        "orgao":"PREFEITURA DE TRÊS RIOS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE TRÊS RIOS"
+    },
+
+    {
+        "id":66,
+        "orgao":"PREFEITURA DE VALENÇA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE VALENÇA"
+    },
+
+    {
+        "id":67,
+        "orgao":"PREFEITURA DE VASSOURAS",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE VASSOURAS"
+    },
+
+    {
+        "id":68,
+        "orgao":"PREFEITURA DE VOLTA REDONDA",
+        "cabecalho":"AO PRESIDENTE DA JARI DA PREFEITURA MUNICIPAL DE VOLTA REDONDA"
+    }
+]
+    
